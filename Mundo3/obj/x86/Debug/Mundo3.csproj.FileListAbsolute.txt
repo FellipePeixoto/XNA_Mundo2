@@ -1,0 +1,6 @@
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\bin\x86\Debug\Mundo3.exe
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\bin\x86\Debug\Mundo3.pdb
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Debug\Mundo3.exe
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Debug\Mundo3.pdb
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\bin\x86\Debug\Content\Texture\Ground.xnb

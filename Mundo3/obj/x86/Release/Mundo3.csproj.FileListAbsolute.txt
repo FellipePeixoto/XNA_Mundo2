@@ -1,0 +1,5 @@
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\bin\x86\Release\Mundo3.exe
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\bin\x86\Release\Mundo3.pdb
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Release\Mundo3.exe
+C:\Users\felli\Documents\Visual Studio 2010\Projects\Mundo3\Mundo3\Mundo3\obj\x86\Release\Mundo3.pdb
